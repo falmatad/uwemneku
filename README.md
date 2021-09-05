@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uwemneku" alt="uwemneku" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sonofomesham" target="blank"><img src="https://img.shields.io/twitter/follow/sonofomesham?logo=twitter&style=for-the-badge" alt="sonofomesham" /></a> </p>
+<p align="left"> <a href="https://twitter.com/uwemneku" target="blank"><img src="https://img.shields.io/twitter/follow/uwemneku?logo=twitter&style=for-the-badge" alt="uwemneku" /></a> </p>
 
 - 🌱 I’m currently learning **React native**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sonofomesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonofomesham" height="30" width="40" /></a>
+<a href="https://twitter.com/uwemneku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uwemneku" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uwemisrael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uwemisrael" height="30" width="40" /></a>
 </p>
 
