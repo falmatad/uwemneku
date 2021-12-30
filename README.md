@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/uwemneku" target="blank"><img src="https://img.shields.io/twitter/follow/uwemneku?logo=twitter&style=for-the-badge" alt="uwemneku" /></a> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently building things with **React native**
 
 - 💬 Ask me about **JavaScript**
 
